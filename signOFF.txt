@@ -1,2 +1,6 @@
 Today is saturday and early morning
+vvcv<<<<<<< .mine
+1
+=======
 have a great day!!!!!!!!!!!!!!!!!
+>>>>>>> .theirs
